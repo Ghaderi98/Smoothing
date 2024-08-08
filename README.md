@@ -1,2 +1,2 @@
-# Smoothing
+# Project phases
 Gamma spectrum processing project
